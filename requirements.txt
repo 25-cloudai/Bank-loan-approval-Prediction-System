@@ -1,0 +1,5 @@
+pandas
+matplotlib
+train_test_split
+Label encoder
+Decision tree classifier
